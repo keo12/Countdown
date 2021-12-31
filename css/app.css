@@ -111,3 +111,17 @@ body {
         font-size: 40%;
     }
 }
+
+.footer {
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer i {
+    color: #006AE8;
+}
